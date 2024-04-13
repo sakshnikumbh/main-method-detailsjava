@@ -11,7 +11,7 @@ Syntax:
 public static void main(String [] x)
 {
 }
-x is reference,it can be your name also.
+//x is reference,it can be your name also.
 
 
 public static void main(String x [])
